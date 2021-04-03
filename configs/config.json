@@ -1,0 +1,25 @@
+﻿{
+    "token": "7830e14c0c27e31646ad7b0d0d2a1b88f94234a2606b700a81696b8d90a775218c6753d39f5df69741ee4",
+    "TriggerShowLog": "!лог",
+    "TriggerToAddChatLogs": "!добавить чат",
+    "TriggerShowChatsLogs": "!все чаты",
+    "WhiteListChat": [],
+    "TriggerAddStickers": "!+",
+    "TriggerIgnoreMention": "!игнор",
+    "TimeWait": 5,
+    "TimeOutDel": 10,
+    "Answers": [],
+    "IgnoreListMention": [],
+    "TriggerStickers": [],
+    "TriggerDelete": "ой",
+    "TriggerTranslate": "рас",
+    "TriggerAddAudio": "!гс",
+    "TriggerAudio": ".",
+    "audio_cache": {
+        "сырок": "doc353026900_560038309_7e006becb517734539",
+        "пон": "doc353026900_560038435_94a3d6dca8b6ddbf4c",
+        "даник": "doc353026900_560039102_1d4daf6771e88d5ebd",
+        "давай": "doc353026900_560039320_90c1477035034a74b5",
+        ".тёма": "doc353026900_560039929_1acc7702e93a1e409a"
+    }
+}
